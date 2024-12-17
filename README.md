@@ -21,6 +21,7 @@ Key components:
 
 ## **Project Architecture**
 ![Architecture Diagram](docs/architecture.png) *(Placeholder for a diagram)*
+<img width="975" alt="Screenshot 2024-12-16 at 8 23 27 PM" src="https://github.com/user-attachments/assets/8e87f435-5ea5-46b3-9029-825e9a754245" />
 
 1. **Rate Encoding**: Convert images into spike trains over time steps.
 2. **LIF Neurons**: Simulate neuron firing based on input spikes.
@@ -45,9 +46,4 @@ Key components:
 
 ---
 
-## **Installation**
-Clone this repository and install dependencies:
-```bash
-git clone https://github.com/yourusername/Spiking-Hopfield-Network.git
-cd Spiking-Hopfield-Network
-pip install -r requirements.txt
+
